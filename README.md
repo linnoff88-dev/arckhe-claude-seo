@@ -1,4 +1,4 @@
-﻿<!-- Updated: 2026-03-06 -->
+<!-- Updated: 2026-03-06 -->
 
 ![Claude SEO](screenshots/cover-image.jpeg)
 
@@ -260,4 +260,4 @@ Built for Claude Code by [@AgriciDaniel](https://github.com/AgriciDaniel)
 
 ---
 
-Projeto adaptado da comunidade INEMA TDS - Marca Arckhe
+Projeto adaptado da comunidade ARCKHÉ TDS - Marca Arckhe
