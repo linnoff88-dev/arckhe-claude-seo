@@ -260,4 +260,4 @@ Built for Claude Code by [@AgriciDaniel](https://github.com/AgriciDaniel)
 
 ---
 
-Projeto adaptado da comunidade ARCKHÉ TDS - Marca Arckhe
+Projeto adaptado da comunidade ARCKHÉ TDS - ARCKHÉe
